@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.activitytracker",
+  "appName": "Activity Tracker",
+  "webDir": "client/dist",
+  "server": { "androidScheme": "https" }
+}
